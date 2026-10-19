@@ -11,7 +11,7 @@
 我喜欢从具体的使用场景出发，把想法做成可以点击、体验和继续迭代的作品。  
 在这里，记录我对 AI 产品、交互设计与网页体验的探索。
 
-🌐 [个人网站](https://tfiyw-wei.github.io/personal-website/) · [查看所有项目](https://github.com/tfiyw-wei?tab=repositories) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/5b55ea34f7e8b907ecbd300a) · ✉️ [邮箱](mailto:179369971@qq.com)
+🌐 [个人网站](https://tfiyw-wei.github.io/personal-website/) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/5b55ea34f7e8b907ecbd300a) · ✉️ [邮箱](mailto:179369971@qq.com)
 
 ---
 
