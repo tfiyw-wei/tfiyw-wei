@@ -1,17 +1,17 @@
 # 你好，我是 tfiyw-wei 👋
 
-<a href="https://tfiyw-wei.github.io/eleme-motion-landing-page/">
-  <img src="./assets/profile-terminal.svg" alt="tfiyw-wei 的创作终端：AI 产品探索与交互原型。从产品想法，到交互原型，再到可体验的作品。点击体验饿了么品牌概念作品。" width="100%" />
+<a href="https://tfiyw-wei.github.io/personal-website/">
+  <img src="./assets/profile-terminal.svg" alt="tfiyw-wei 的创作终端：AI 产品探索与交互原型。从产品想法，到交互原型，再到可体验的作品。点击访问个人作品集 WEI OS。" width="100%" />
 </a>
 
-<sub>点击终端，体验我的品牌交互作品 ↗</sub>
+<sub>点击终端，打开我的个人网站 WEI OS ↗</sub>
 
 **AI 产品探索 · 交互原型**
 
 我喜欢从具体的使用场景出发，把想法做成可以点击、体验和继续迭代的作品。  
 在这里，记录我对 AI 产品、交互设计与网页体验的探索。
 
-[体验作品 ↗](https://tfiyw-wei.github.io/eleme-motion-landing-page/) · [查看所有项目](https://github.com/tfiyw-wei?tab=repositories) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/5b55ea34f7e8b907ecbd300a) · ✉️ [邮箱](mailto:179369971@qq.com)
+🌐 [个人网站](https://tfiyw-wei.github.io/personal-website/) · [查看所有项目](https://github.com/tfiyw-wei?tab=repositories) · 📕 [小红书](https://www.xiaohongshu.com/user/profile/5b55ea34f7e8b907ecbd300a) · ✉️ [邮箱](mailto:179369971@qq.com)
 
 ---
 
@@ -27,13 +27,13 @@
 
 <sub>非官方概念作品。点餐助手使用本地示例菜单与规则筛选，未接入真实 AI 模型或交易系统。</sub>
 
-### [Personal Website · 个人介绍页模板](https://github.com/tfiyw-wei/personal-website)
+### [Personal Website · WEI OS](https://github.com/tfiyw-wei/personal-website)
 
-一个可在页面内编辑资料的个人介绍页。用简洁的排版呈现自我介绍、兴趣与联系方式，支持本地保存资料和导出 HTML。
+浅色桌面风格的个人作品集，展示我的作品、探索方法与联系方式。支持页面切换、作品筛选与快捷导航，也保留了可编辑的个人介绍页模板。
 
-`个人表达` `页面内编辑` `单文件 HTML`
+`个人作品集` `桌面风格` `HTML / CSS / JavaScript`
 
-[查看项目 ↗](https://github.com/tfiyw-wei/personal-website)
+[访问网站 ↗](https://tfiyw-wei.github.io/personal-website/) · [查看源码](https://github.com/tfiyw-wei/personal-website)
 
 ---
 
