@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">tfiyw-wei · AI 产品探索与交互原型</title>
+  <desc id="desc">从产品想法到交互原型，再到可体验的作品。项目包括 eleme-motion-landing-page 和 personal-website。</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbfdff"/>
+      <stop offset="1" stop-color="#f2f7fb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2477b8"/>
+      <stop offset="1" stop-color="#149b9c"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .ink { fill: #20384e; }
+      .muted { fill: #63798c; }
+      .blue { fill: #2477b8; }
+      .teal { fill: #13898c; }
+      .arrival { animation: settle .65s ease-out both; }
+      .cursor { animation: pulse 1.8s ease-in-out infinite; }
+      @keyframes settle {
+        from { transform: translateY(3px); }
+        to { transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: .35; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .arrival, .cursor { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="338" rx="18" fill="url(#surface)" stroke="#d7e3ed" stroke-width="2"/>
+  <path d="M19 2h922a17 17 0 0 1 17 17v27H2V19A17 17 0 0 1 19 2Z" fill="#edf3f8"/>
+  <path d="M2 46h956" stroke="#d7e3ed"/>
+  <circle cx="26" cy="24" r="5.5" fill="#ee8880"/>
+  <circle cx="46" cy="24" r="5.5" fill="#e9be69"/>
+  <circle cx="66" cy="24" r="5.5" fill="#79b99a"/>
+  <text x="480" y="29" text-anchor="middle" class="mono muted" font-size="13">tfiyw-wei / idea-workspace</text>
+  <rect x="867" y="17" width="62" height="15" rx="7.5" fill="#e2efee"/>
+  <circle cx="878" cy="24.5" r="2.5" fill="#13898c"/>
+  <text x="887" y="28.5" class="mono teal" font-size="10">OPEN</text>
+
+  <g class="arrival">
+    <text x="42" y="87" class="mono" font-size="16"><tspan class="blue">~ % </tspan><tspan class="muted">hello, i'm tfiyw-wei</tspan></text>
+    <text x="42" y="129" class="sans ink" font-size="30" font-weight="650">AI 产品探索<tspan fill="#9bb2c4"> · </tspan>交互原型</text>
+    <rect x="450" y="105" width="3" height="27" rx="1.5" fill="url(#accent)" class="cursor"/>
+
+    <rect x="42" y="161" width="270" height="57" rx="11" fill="#fff" stroke="#dbe5ee"/>
+    <rect x="345" y="161" width="270" height="57" rx="11" fill="#fff" stroke="#dbe5ee"/>
+    <rect x="648" y="161" width="270" height="57" rx="11" fill="#edf8f7" stroke="#c8e5e2"/>
+    <text x="62" y="197" class="mono blue" font-size="15">01</text>
+    <text x="99" y="197" class="sans ink" font-size="21" font-weight="500">产品想法</text>
+    <text x="365" y="197" class="mono blue" font-size="15">02</text>
+    <text x="402" y="197" class="sans ink" font-size="21" font-weight="500">交互原型</text>
+    <text x="668" y="197" class="mono teal" font-size="15">03</text>
+    <text x="705" y="197" class="sans ink" font-size="21" font-weight="500">可体验作品</text>
+    <path d="M321 189.5h14m-5-5 5 5-5 5M624 189.5h14m-5-5 5 5-5 5" fill="none" stroke="#8aa7bc" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M42 243h876" stroke="#dbe5ee"/>
+    <text x="42" y="272" class="mono" font-size="14"><tspan class="blue">~ % </tspan><tspan class="muted">ls projects/</tspan></text>
+    <path d="M43 290h8l3 3h11v13H43Z" fill="none" stroke="#4792b5" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="76" y="305" class="mono ink" font-size="17">eleme-motion-landing-page</text>
+    <path d="M537 290h8l3 3h11v13h-22Z" fill="none" stroke="#469d9c" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="570" y="305" class="mono ink" font-size="17">personal-website</text>
+  </g>
+</svg>
