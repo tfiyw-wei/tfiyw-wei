@@ -37,6 +37,16 @@
 
 ---
 
+## ✍️ 文章
+
+记录我对 AI 产品与技术原理的学习、观察和思考。
+
+- [搜网页也要单独付钱了：DeepSeek 开放 Search & Fetch，转型 AI PM 先看懂「三本账」](https://mp.weixin.qq.com/s/1QPp3ev-FH5JiAMjxhJjRA)
+- [上下文工程：AI 每一步应该看到什么？](https://mp.weixin.qq.com/s/94f1V3ZTtwMpS9fwgXqq4A)
+- [一篇文章搞懂 RSI：AI 如何改进自己的改进能力](https://mp.weixin.qq.com/s/5o0eMq0vjONWuV_TmAa5gQ)
+
+---
+
 ## ↗ 持续探索
 
 - **AI 产品**：从真实场景理解需求，思考 AI 能在哪一步提供帮助。
