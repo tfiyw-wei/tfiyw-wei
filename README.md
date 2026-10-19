@@ -1,10 +1,10 @@
 # 你好，我是 tfiyw-wei 👋
 
 <a href="https://tfiyw-wei.github.io/personal-website/">
-  <img src="./assets/profile-terminal.svg" alt="tfiyw-wei 的创作终端：AI 产品探索与交互原型。从产品想法，到交互原型，再到可体验的作品。点击访问个人作品集。" width="100%" />
+  <img src="./assets/profile-terminal.svg" alt="tfiyw-wei 的创作终端：AI 产品探索与交互原型。从产品想法，到交互原型，再到可体验的作品。点击访问个人作品集 WEI OS。" width="100%" />
 </a>
 
-<sub>点击终端，打开我的个人网站 ↗</sub>
+<sub>点击终端，打开我的个人网站 WEI OS ↗</sub>
 
 **AI 产品探索 · 交互原型**
 
@@ -27,9 +27,9 @@
 
 <sub>非官方概念作品。点餐助手使用本地示例菜单与规则筛选，未接入真实 AI 模型或交易系统。</sub>
 
-### [Personal Website · 个人作品集](https://github.com/tfiyw-wei/personal-website)
+### [Personal Website · WEI OS](https://github.com/tfiyw-wei/personal-website)
 
-基于开源 React Portfolio 模板的浅色个人作品集，展示我的作品、探索方向与联系方式。支持页面切换、作品筛选与深浅主题切换，也保留了可编辑的个人介绍页模板。
+浅色桌面风格的个人作品集，展示我的作品、探索方法与联系方式。支持页面切换、作品筛选与快捷导航，也保留了可编辑的个人介绍页模板。
 
 `个人作品集` `桌面风格` `HTML / CSS / JavaScript`
 
