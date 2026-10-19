@@ -47,7 +47,7 @@
   <g class="arrival">
     <text x="42" y="87" class="mono" font-size="16"><tspan class="blue">~ % </tspan><tspan class="muted">hello, i'm tfiyw-wei</tspan></text>
     <text x="42" y="129" class="sans ink" font-size="30" font-weight="650">AI 产品探索<tspan fill="#9bb2c4"> · </tspan>交互原型</text>
-    <rect x="450" y="105" width="3" height="27" rx="1.5" fill="url(#accent)" class="cursor"/>
+    <rect x="374" y="105" width="3" height="27" rx="1.5" fill="url(#accent)" class="cursor"/>
 
     <rect x="42" y="161" width="270" height="57" rx="11" fill="#fff" stroke="#dbe5ee"/>
     <rect x="345" y="161" width="270" height="57" rx="11" fill="#fff" stroke="#dbe5ee"/>
